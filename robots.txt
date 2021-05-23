@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://georgesterpu.github.io/blog/sitemap.xml

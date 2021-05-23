@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>George Sterpu</title>
+	<subtitle>My blog</subtitle>
+	<link href="https://georgesterpu.github.io/blog/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://georgesterpu.github.io/blog/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-05-23T00:00:00+00:00</updated>
+	<id>https://georgesterpu.github.io/blog/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Hello</title>
+		<published>2021-05-23T00:00:00+00:00</published>
+		<updated>2021-05-23T00:00:00+00:00</updated>
+		<link href="https://georgesterpu.github.io/blog/first-post/" type="text/html"/>
+		<id>https://georgesterpu.github.io/blog/first-post/</id>
+		<content type="html">&lt;h2 id=&quot;intro&quot;&gt;Intro&lt;&#x2F;h2&gt;
+&lt;p&gt;First post&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
